@@ -235,7 +235,7 @@
             const nilaiAkhir = Math.round((score / quizData.length) * 100);
 
             // GANTI URL DI BAWAH INI DENGAN URL GOOGLE APPS SCRIPT ANDA
-            const scriptURL = 'https://script.google.com/u/0/home/projects/13zpLOGGjReBIbdDHqL7vH9pFoN2uvZZGk0Y-4Yr_hAuCW7rxiSuqySTr/edit'; 
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbwJqofRoQhYKW8f9US90_j9wG_ZTdGo172cGmF1lz_StlWB_IxG0dAfzBhoXHbdr5n-OQ/exec'; 
             
             const formData = new URLSearchParams();
             formData.append('nama', namaSiswa);
